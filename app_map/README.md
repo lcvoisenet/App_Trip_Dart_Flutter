@@ -15,13 +15,13 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Migrate Colection to Bdd MongoDb
+## Migrate Colection to DataBase MongoDb
 
 cd backend/
 
 node seed.js
 
-## Install Dependecies
+## Install Back Dependecies
 
 cd backend/
 
@@ -41,7 +41,7 @@ flutter pub get
 
 ## You need to upload Android Studio for emulate the AndroidApp
 
-## Launch yout emulator or connect your Physical Device
+## Launch your emulator or connect your Physical Device
 
 ## Now you can Launch app Flutter
 
