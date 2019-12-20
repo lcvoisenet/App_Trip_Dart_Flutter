@@ -47,6 +47,8 @@ flutter pub get
 
 cd app_map/
 
-flutter run
+flutter run \* for mobile
+
+flutter run -d chrome \* for WebBrowser
 
 ## ENJOY !
